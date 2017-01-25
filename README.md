@@ -1,2 +1,2 @@
-# dlbot
+# anotherbot
 Collection of Hubot Scripts
